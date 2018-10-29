@@ -20,11 +20,12 @@ strong {
 }
 
 a {
-    color: rgb(170, 0, 170);
+    color: rgb(255,85,255);
 }
 
     a:active, a:hover {
-        color: rgb(255, 85, 255);
+        background: rgb(255, 85, 255);
+        color: rgb(170,0,170);
     }
 
 #main {
